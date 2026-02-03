@@ -35,10 +35,10 @@ secure SMTP/IMAP services, webmail access, spam filtering, and antivirus protect
 ## User Interface (SOGo Webmail)
 
 ### Login Screen
-![SOGo Login](assets/screenshots/sogo-login.png)
+![SOGo Login](assets/sogo-login.png)
 
 ### Inbox View
-![SOGo Inbox](assets/screenshots/sogo-inbox.png)
+![SOGo Inbox](assets/sogo-inbox.png)
 
 SOGo allows users to manage email, calendars, and contacts from a single web interface,
 reducing client-side configuration and support overhead.
@@ -98,4 +98,5 @@ These scenarios reflect **real first-level support tickets**.
 **Angel Colina**  
 IT Support / Systems Support Portfolio  
 January 2026
+
 
