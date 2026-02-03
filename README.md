@@ -25,7 +25,7 @@ Linux VPS and managed through Cloudflare DNS.
 
 ## Architecture Overview
 
-![Mail Server Architecture](assets/diagrams/architecture.png)
+![Mail Server Architecture](diagrams/architecture.png)
 
 The service is built on a Dockerized mail platform running on a Linux VPS, providing
 secure SMTP/IMAP services, webmail access, spam filtering, and antivirus protection.
@@ -98,3 +98,4 @@ These scenarios reflect **real first-level support tickets**.
 **Angel Colina**  
 IT Support / Systems Support Portfolio  
 January 2026
+
