@@ -55,7 +55,7 @@ A step-by-step chronological log covering:
 - User creation
 - Deliverability testing and tuning
 
-➡️ (assets/mailserver-deployment-timeline.pdf)
+➡️ - [Deployment Timeline (PDF)](assets/docs/mailserver-deployment-timeline.pdf)
 
 ---
 
@@ -66,7 +66,7 @@ Written for **non-technical users and management**, covering:
 - Security best practices
 - Support and escalation procedures
 
-➡️ `mailserver-user-and-admin-guide.pdf`
+➡️ - [User & Admin Guide (PDF)](assets/docs/mailserver-user-and-admin-guide.pdf)
 
 ---
 
@@ -98,6 +98,7 @@ These scenarios reflect **real first-level support tickets**.
 **Angel Colina**  
 IT Support / Systems Support Portfolio  
 January 2026
+
 
 
 
