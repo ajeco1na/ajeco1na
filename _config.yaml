@@ -2,3 +2,6 @@ remote_theme: jekyll/minima
 plugins:
   - jekyll-remote-theme
   - jekyll-feed # (optional) for an Atom feed
+
+<title>Angel Colina — Mail Server Support Portfolio</title>
+<meta name="description" content="Mail server project showcasing deployment, support documentation, and first-level troubleshooting for IT Support roles.">
