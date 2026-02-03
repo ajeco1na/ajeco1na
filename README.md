@@ -55,7 +55,7 @@ A step-by-step chronological log covering:
 - User creation
 - Deliverability testing and tuning
 
-➡️ `mailserver-deployment-timeline.pdf`
+➡️ (assets/mailserver-deployment-timeline.pdf)
 
 ---
 
@@ -98,5 +98,6 @@ These scenarios reflect **real first-level support tickets**.
 **Angel Colina**  
 IT Support / Systems Support Portfolio  
 January 2026
+
 
 
