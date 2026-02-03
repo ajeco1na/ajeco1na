@@ -10,6 +10,14 @@ Linux VPS and managed through Cloudflare DNS.
 🔹 Primary focus: **IT Support Level 1 / Helpdesk**  
 🔹 Secondary focus: **Junior SysAdmin exposure**
 
+## 📌 Table of Contents
+- [Project Snapshot](#project-snapshot)
+- [Architecture Overview](#architecture-overview)
+- [User Interface](#user-interface)
+- [Documentation](#documentation--evidence)
+- [Support Scenarios](#common-it-support-scenarios)
+- [Lessons Learned](#lessons-learned)
+
 ---
 
 ## Project Snapshot
@@ -98,6 +106,7 @@ These scenarios reflect **real first-level support tickets**.
 **Angel Colina**  
 IT Support / Systems Support Portfolio  
 January 2026
+
 
 
 
