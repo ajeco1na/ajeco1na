@@ -67,17 +67,6 @@ A step-by-step chronological log covering:
 
 ---
 
-### 📄 User & Admin Guide
-Written for **non-technical users and management**, covering:
-- How to access the service
-- Using SOGo (email, calendar, contacts)
-- Security best practices
-- Support and escalation procedures
-
-➡️ - [User & Admin Guide (PDF)](assets/mailserver-user-and-admin-guide.pdf)
-
----
-
 ## Common IT Support Scenarios
 
 - User cannot access webmail
